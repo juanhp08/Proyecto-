@@ -17,7 +17,7 @@ Proyecto-/
     ├── exploracion_juan.ipynb         # Cuaderno individual Juan Diego
     └── exploracion_joel.ipynb         # Cuaderno individual Andrés Joel
 
-    ```
+```
 
 ## Documentación y Estructura de los Datos
 El archivo `datos/gaming_industry_trends.csv` contiene **1,000 filas (registros de videojuegos)** y **11 columnas originales** (sin valores nulos ni registros duplicados), complementadas con **2 variables derivadas** durante el análisis (`Revenue_per_Player` y `Engagement_Ratio`):
