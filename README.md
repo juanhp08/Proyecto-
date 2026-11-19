@@ -49,3 +49,5 @@ El archivo `datos/gaming_industry_trends.csv` contiene **1,000 filas (registros 
 2. **Casos Atípicos Validados:** Se detectaron dos valores atípicos superiores en `Peak Concurrent Players` (*Legends of Valor 5* con 96.62 mil y *Warzone Chronicles 1* con 96.26 mil, por encima del límite IQR de 95.60 mil), conservados por representar éxitos reales de *Sports* y *Fighting*.
 3. **Rentabilidad por Género:** *Action* lidera los ingresos acumulados ($\$291,375.92\text{ M}$ USD), mientras que *RPG* obtiene el mejor ingreso promedio por título ($\$2,716.13\text{ M}$ USD) y *Fighting* logra la mayor monetización por usuario ($\$194.36$ USD/jugador).
 4. **Equilibrio del Mercado:** El catálogo se divide prácticamente en tercios iguales entre juegos estables (`Stable`: 33.9 %), en crecimiento (`Rising`: 33.5 %) y en declive (`Declining`: 32.6 %), con distribución homogénea entre plataformas y desarrolladores.
+
+Mejorar el manejo del iloc
